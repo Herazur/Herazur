@@ -2,4 +2,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Herazur}/count.svg)
 
-https://badges.pufler.dev/visits/{Herazur}/{repo}
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
