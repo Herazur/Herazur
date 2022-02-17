@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herazur&theme=merko&hide_border=do%C4%9Fru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herazur&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
