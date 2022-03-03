@@ -1,4 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gfzuLxtbdbsyQ8ZT4X" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gfzuLxtbdbsyQ8ZT4X">via GIPHY</a></p>
+<div id="header" align="center">
+  ![giphy](https://user-images.githubusercontent.com/68228757/156631742-852828e6-a7f7-4252-b9ae-af644e66416a.gif)
+</div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Herazur&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
