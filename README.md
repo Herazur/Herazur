@@ -1,4 +1,4 @@
-<code><img align="right" src="https://github.com/Herazur/Herazur/blob/main/blue.png" width="480" height="480" /></p>
+<code><img align="right" src="" width="480" height="480" /></p>
 
 
 
