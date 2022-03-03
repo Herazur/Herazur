@@ -1,4 +1,4 @@
-<code><img align="right" src="![image](https://user-images.githubusercontent.com/68228757/156633005-e6ccff75-4325-4552-955c-826d42859bd6.png)" width="500" height="320" /></p>
+<code><img align="right" src="https://github.com/Herazur/Herazur/blob/main/giphy.gif" width="500" height="320" /></p>
 
 
 
