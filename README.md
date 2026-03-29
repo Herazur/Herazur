@@ -6,27 +6,26 @@
 
 <div align="center">
   <p align="center">
-    <strong>Full-Stack Developer | AI Product Builder | Mobile Entrepreneur</strong>
+    <strong>Full-Stack Developer | AI Product Builder | Indie App Entrepreneur</strong>
   </p>
   <p align="center">
-    <em>Building high-impact AI solutions and premium mobile experiences for over 1M+ potential users.</em>
+    <em>Building a portfolio of AI-driven Micro-SaaS solutions and niche utility apps.</em>
   </p>
 </div>
 
 <hr />
 
 ### 🚀 About Me
-I'm a passionate developer and entrepreneur focused on building scalable, AI-driven applications. With **9+ launched apps on Google Play** and multiple **high-traffic web platforms**, I specialize in taking products from zero to production.
+I'm a passionate developer and entrepreneur building an **Indie App Lab**. My focus is on solving clear, niche problems using **Artificial Intelligence** and modern web/mobile technologies. With **9+ launched apps on Google Play**, I specialize in rapid prototyping and scaling high-value utility products.
 
-- 🤖 **Flagship Project**: [Sözleşme Risk Analizi](https://www.sozlesmerisk.com/) - AI-powered legal contract scanner.
-- 📱 **Mobile Dev**: Published 9 apps on Google Play (AI Landscape, Nutrition, Education).
-- 🎮 **Community**: Founder of [Fate War Wiki](https://fatewarwiki.com/) - A strategic gaming guide for thousands of players.
-- 🌱 **Learning**: Advanced LLM Orchestration, RAG Pipelines, and Cloud Scalability.
-- ⚡ **Fun fact**: I believe that software should be both powerful and aesthetically beautiful.
+- 🤖 **Flagship SaaS**: [Sözleşme Risk Analizi](https://www.sozlesmerisk.com/) – Enterprise-grade AI contract analysis.
+- 📱 **Mobile Portfolio**: 9 apps live on Google Play (AI Design, EdTech, Productivity, Health).
+- 🎮 **Community**: Founder of [Fate War Wiki](https://fatewarwiki.com/) – Strategic gaming insights.
+- 🌱 **Focus**: LLM Orchestration, RAG Pipelines, and user-centric Product Design.
 
 <hr />
 
-### 📱 My Google Play Apps
+### 📱 Featured Mobile Apps (Indie App Lab)
 <div align="left">
   <a href="https://play.google.com/store/apps/developer?id=herazur">
     <img src="https://img.shields.io/badge/Google_Play-4169E1?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
@@ -35,20 +34,23 @@ I'm a passionate developer and entrepreneur focused on building scalable, AI-dri
 
 | App | Description | Category |
 | :--- | :--- | :--- |
-| **VerdeVista / Aira** | AI-powered landscape and garden design tools. | AI & Design |
-| **Hafiz Hoca** | AI-driven Quran learning and memorization assistant. | Education |
-| **PlateLens** | AI nutrition coach for meal and macro analysis. | Health & Fitness |
-| **GigGuard** | Professional contract scanner and risk assessor. | LegalTech |
-| **StoryBee** | Personalized AI-powered bedtime stories for children. | Entertainment |
+| **[Aira](https://play.google.com/store/apps/details?id=com.herazur.landscapedesign_ai)** | AI-powered external landscape & garden design generator. | AI & Design |
+| **[GigGuard](https://play.google.com/store/apps/details?id=com.gigguard.gig_guard)** | Contract risk scanner for freelancers and small businesses. | LegalTech |
+| **[ADHD Planner](https://play.google.com/store/apps/details?id=com.calmplanner.calm_planner)** | Focus-calm daily planner designed for ADHD minds. | Productivity |
+| **[Hafiz Hoca](https://play.google.com/store/apps/details?id=com.hafiz.hafiz_hoca)** | AI-assisted Quran memorization with live speech analysis. | EdTech |
+| **[PlateLens](https://play.google.com/store/apps/details?id=com.platelens.app)** | AI-powered calorie & macro tracker via photo analysis. | Health |
+| **[StoryBee](https://play.google.com/store/apps/details?id=com.storybuddy.ai.storybuddy_ai)** | Personalized AI bedtime story generator for children. | Parenting |
+| **[Recallo](https://play.google.com/store/apps/details?id=com.recallo.flashcards)** | CSV-based flashcard system with Spaced Repetition. | Learning |
+| **[Azura](https://play.google.com/store/apps/details?id=com.azura.matris)** | Birth-date based Matrix Numerology & self-discovery. | Personal Growth |
 
 <hr />
 
 ### 🤖 AI Engineering & Web SaaS
-| Project | Description | Tech Stack |
+| Project | Description | Role |
 | :--- | :--- | :--- |
-| **[Sözleşme Risk Analizi](https://www.sozlesmerisk.com/)** | Enterprise-grade AI analysis for PDF contracts with 99% accuracy. | Next.js, LLMs, Python |
-| **[Epic Life Forge](https://github.com/Herazur/Epic-Life-Forge)** | A premium dashboard for gamified productivity. | React, Framer Motion |
-| **[Fate War Wiki](https://fatewarwiki.com/)** | Strategic game guide blog providing data-driven hero insights. | Web Dev, SEO |
+| **[Sözleşme Risk Analizi](https://www.sozlesmerisk.com/)** | AI-powered legal risk assessment for contracts (99% accuracy). | Founder / Lead Dev |
+| **[Epic Life Forge](https://github.com/Herazur/Epic-Life-Forge)** | A premium dashboard for gamified productivity. | Full-Stack Dev |
+| **[Fate War Wiki](https://fatewarwiki.com/)** | Strategic game guide blog providing data-driven hero insights. | Founder |
 
 <hr />
 
@@ -70,14 +72,14 @@ I'm a passionate developer and entrepreneur focused on building scalable, AI-dri
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herazur&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herazur&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herazur&theme=tokyonight" height="190" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herazur&theme=tokyonight" height="190" alt="Top Languages" />
 </div>
 
 <hr />
 
 <div align="center">
-  <p>Building the future with AI and code.</p>
+  <p><i>Building the future, one micro-app at a time.</i></p>
   <a href="https://twitter.com/herazura">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
