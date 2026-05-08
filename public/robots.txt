@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /login
+Disallow: /update-password
+Disallow: /create
+Disallow: /edit-profile
+Disallow: /activity
+Disallow: /stats
+Disallow: /promote
+Disallow: /blog/manage
+Disallow: /vibe-history
+
+Sitemap: https://herazur.com/sitemap.xml
